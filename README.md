@@ -9,4 +9,4 @@ The original Chainer reimplementation (by musyoku) of the paper can be found [he
 Installation procedure is the same as original musyoku implementation. So please refer to original GitHub page.
 
 ### Result
-![figure/result.gif](figure/result.gif)
+<img src="figure/result.gif" width=600>
